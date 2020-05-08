@@ -1,0 +1,1486 @@
+{
+  "schedules":[
+    {
+      "id":"P6JZ92K",
+      "type":"schedule",
+      "summary":"Admin - Global",
+      "self":"https://api.pagerduty.com/schedules/P6JZ92K",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P6JZ92K",
+      "name":"Admin - Global",
+      "time_zone":"Australia/Sydney",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"PJZ9LK2",
+          "type":"escalation_policy_reference",
+          "summary":"SiteAdmin 24x7",
+          "self":"https://api.pagerduty.com/escalation_policies/PJZ9LK2",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PJZ9LK2"
+        },
+        {
+          "id":"PA5W587",
+          "type":"escalation_policy_reference",
+          "summary":"Operations",
+          "self":"https://api.pagerduty.com/escalation_policies/PA5W587",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PA5W587"
+        }
+      ],
+      "users":[
+        {
+          "id":"P1BU2CE",
+          "type":"user_reference",
+          "summary":"Dave Cliffe",
+          "self":"https://api.pagerduty.com/users/P1BU2CE",
+          "html_url":"https://webdemo.pagerduty.com/users/P1BU2CE"
+        },
+        {
+          "id":"PRMXSSO",
+          "type":"user_reference",
+          "summary":"Benedict Cumberbatch",
+          "self":"https://api.pagerduty.com/users/PRMXSSO",
+          "html_url":"https://webdemo.pagerduty.com/users/PRMXSSO"
+        },
+        {
+          "id":"PSAHZUD",
+          "type":"user_reference",
+          "summary":"David Shackelford",
+          "self":"https://api.pagerduty.com/users/PSAHZUD",
+          "html_url":"https://webdemo.pagerduty.com/users/PSAHZUD"
+        },
+        {
+          "id":"PC92TC3",
+          "type":"user_reference",
+          "summary":"Luke Skywalker",
+          "self":"https://api.pagerduty.com/users/PC92TC3",
+          "html_url":"https://webdemo.pagerduty.com/users/PC92TC3"
+        },
+        {
+          "id":"P1RQ0Z6",
+          "type":"user_reference",
+          "summary":"Alex Weinstein",
+          "self":"https://api.pagerduty.com/users/P1RQ0Z6",
+          "html_url":"https://webdemo.pagerduty.com/users/P1RQ0Z6"
+        },
+        {
+          "id":"P79LCJF",
+          "type":"user_reference",
+          "summary":"Andrew Bakhtiari",
+          "self":"https://api.pagerduty.com/users/P79LCJF",
+          "html_url":"https://webdemo.pagerduty.com/users/P79LCJF"
+        },
+        {
+          "id":"PQ8MK00",
+          "type":"user_reference",
+          "summary":"Blake McMillan",
+          "self":"https://api.pagerduty.com/users/PQ8MK00",
+          "html_url":"https://webdemo.pagerduty.com/users/PQ8MK00"
+        },
+        {
+          "id":"P8GWIGI",
+          "type":"user_reference",
+          "summary":"Colby Glieden",
+          "self":"https://api.pagerduty.com/users/P8GWIGI",
+          "html_url":"https://webdemo.pagerduty.com/users/P8GWIGI"
+        },
+        {
+          "id":"PX6RN71",
+          "type":"user_reference",
+          "summary":"Angela Chapman",
+          "self":"https://api.pagerduty.com/users/PX6RN71",
+          "html_url":"https://webdemo.pagerduty.com/users/PX6RN71"
+        },
+        {
+          "id":"PBJEGFZ",
+          "type":"user_reference",
+          "summary":"David Lanstein",
+          "self":"https://api.pagerduty.com/users/PBJEGFZ",
+          "html_url":"https://webdemo.pagerduty.com/users/PBJEGFZ"
+        },
+        {
+          "id":"PEJV34Q",
+          "type":"user_reference",
+          "summary":"Kyle Fitzpatrick",
+          "self":"https://api.pagerduty.com/users/PEJV34Q",
+          "html_url":"https://webdemo.pagerduty.com/users/PEJV34Q"
+        },
+        {
+          "id":"PAUP09U",
+          "type":"user_reference",
+          "summary":"Ancy Dow",
+          "self":"https://api.pagerduty.com/users/PAUP09U",
+          "html_url":"https://webdemo.pagerduty.com/users/PAUP09U"
+        },
+        {
+          "id":"P36S9Y2",
+          "type":"user_reference",
+          "summary":"Alex Ware",
+          "self":"https://api.pagerduty.com/users/P36S9Y2",
+          "html_url":"https://webdemo.pagerduty.com/users/P36S9Y2"
+        },
+        {
+          "id":"PN4UWE0",
+          "type":"user_reference",
+          "summary":"Alexis",
+          "self":"https://api.pagerduty.com/users/PN4UWE0",
+          "html_url":"https://webdemo.pagerduty.com/users/PN4UWE0"
+        },
+        {
+          "id":"PRNFXJS",
+          "type":"user_reference",
+          "summary":"John Hooper",
+          "self":"https://api.pagerduty.com/users/PRNFXJS",
+          "html_url":"https://webdemo.pagerduty.com/users/PRNFXJS"
+        },
+        {
+          "id":"PEKSHB1",
+          "type":"user_reference",
+          "summary":"Kieran Galvin",
+          "self":"https://api.pagerduty.com/users/PEKSHB1",
+          "html_url":"https://webdemo.pagerduty.com/users/PEKSHB1"
+        },
+        {
+          "id":"P0YSUGZ",
+          "type":"user_reference",
+          "summary":"Han Solo",
+          "self":"https://api.pagerduty.com/users/P0YSUGZ",
+          "html_url":"https://webdemo.pagerduty.com/users/P0YSUGZ"
+        },
+        {
+          "id":"P0VLWEU",
+          "type":"user_reference",
+          "summary":"Samuel Clemens",
+          "self":"https://api.pagerduty.com/users/P0VLWEU",
+          "html_url":"https://webdemo.pagerduty.com/users/P0VLWEU"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"PNOIFIV",
+          "type":"team_reference",
+          "summary":"Ops Team",
+          "self":"https://api.pagerduty.com/teams/PNOIFIV",
+          "html_url":"https://webdemo.pagerduty.com/teams/PNOIFIV"
+        },
+        {
+          "id":"P7W0ZIU",
+          "type":"team_reference",
+          "summary":"Monitoring Tools Team",
+          "self":"https://api.pagerduty.com/teams/P7W0ZIU",
+          "html_url":"https://webdemo.pagerduty.com/teams/P7W0ZIU"
+        }
+      ]
+    },
+    {
+      "id":"PEECITZ",
+      "type":"schedule",
+      "summary":"After Hours ",
+      "self":"https://api.pagerduty.com/schedules/PEECITZ",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PEECITZ",
+      "name":"After Hours ",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"P69WI9G",
+          "type":"escalation_policy_reference",
+          "summary":"John (Ops)",
+          "self":"https://api.pagerduty.com/escalation_policies/P69WI9G",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/P69WI9G"
+        },
+        {
+          "id":"PA5W587",
+          "type":"escalation_policy_reference",
+          "summary":"Operations",
+          "self":"https://api.pagerduty.com/escalation_policies/PA5W587",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PA5W587"
+        },
+        {
+          "id":"PWRYUY4",
+          "type":"escalation_policy_reference",
+          "summary":"Operations - AWS",
+          "self":"https://api.pagerduty.com/escalation_policies/PWRYUY4",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PWRYUY4"
+        },
+        {
+          "id":"PBJRITM",
+          "type":"escalation_policy_reference",
+          "summary":"Weekends",
+          "self":"https://api.pagerduty.com/escalation_policies/PBJRITM",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PBJRITM"
+        },
+        {
+          "id":"P0I8J4B",
+          "type":"escalation_policy_reference",
+          "summary":"Anyone Test Escalation",
+          "self":"https://api.pagerduty.com/escalation_policies/P0I8J4B",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/P0I8J4B"
+        }
+      ],
+      "users":[
+        {
+          "id":"PX6RN71",
+          "type":"user_reference",
+          "summary":"Angela Chapman",
+          "self":"https://api.pagerduty.com/users/PX6RN71",
+          "html_url":"https://webdemo.pagerduty.com/users/PX6RN71"
+        },
+        {
+          "id":"PAUP09U",
+          "type":"user_reference",
+          "summary":"Ancy Dow",
+          "self":"https://api.pagerduty.com/users/PAUP09U",
+          "html_url":"https://webdemo.pagerduty.com/users/PAUP09U"
+        },
+        {
+          "id":"P52YQZX",
+          "type":"user_reference",
+          "summary":"Dave",
+          "self":"https://api.pagerduty.com/users/P52YQZX",
+          "html_url":"https://webdemo.pagerduty.com/users/P52YQZX"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"PTN67DJ",
+          "type":"team_reference",
+          "summary":"Applications - PayPal",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PRJ4D5C",
+          "type":"team_reference",
+          "summary":"ops",
+          "self":"https://api.pagerduty.com/teams/PRJ4D5C",
+          "html_url":"https://webdemo.pagerduty.com/teams/PRJ4D5C"
+        },
+        {
+          "id":"P7W0ZIU",
+          "type":"team_reference",
+          "summary":"Monitoring Tools Team",
+          "self":"https://api.pagerduty.com/teams/P7W0ZIU",
+          "html_url":"https://webdemo.pagerduty.com/teams/P7W0ZIU"
+        },
+        {
+          "id":"P8P8D26",
+          "type":"team_reference",
+          "summary":"Whole bunch",
+          "self":"https://api.pagerduty.com/teams/P8P8D26",
+          "html_url":"https://webdemo.pagerduty.com/teams/P8P8D26"
+        }
+      ]
+    },
+    {
+      "id":"P9AROYI",
+      "type":"schedule",
+      "summary":"Alexis and anyone rotation",
+      "self":"https://api.pagerduty.com/schedules/P9AROYI",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P9AROYI",
+      "name":"Alexis and anyone rotation",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PSL1X6P",
+          "type":"user_reference",
+          "summary":"Anyone",
+          "self":"https://api.pagerduty.com/users/PSL1X6P",
+          "html_url":"https://webdemo.pagerduty.com/users/PSL1X6P"
+        },
+        {
+          "id":"PN4UWE0",
+          "type":"user_reference",
+          "summary":"Alexis",
+          "self":"https://api.pagerduty.com/users/PN4UWE0",
+          "html_url":"https://webdemo.pagerduty.com/users/PN4UWE0"
+        },
+        {
+          "id":"P1RQ0Z6",
+          "type":"user_reference",
+          "summary":"Alex Weinstein",
+          "self":"https://api.pagerduty.com/users/P1RQ0Z6",
+          "html_url":"https://webdemo.pagerduty.com/users/P1RQ0Z6"
+        },
+        {
+          "id":"PDLNOLF",
+          "type":"user_reference",
+          "summary":"Celine Ho",
+          "self":"https://api.pagerduty.com/users/PDLNOLF",
+          "html_url":"https://webdemo.pagerduty.com/users/PDLNOLF"
+        },
+        {
+          "id":"PIKYBF9",
+          "type":"user_reference",
+          "summary":"Amanda Folson",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"P4HPQA0",
+          "type":"user_reference",
+          "summary":"Ashley",
+          "self":"https://api.pagerduty.com/users/P4HPQA0",
+          "html_url":"https://webdemo.pagerduty.com/users/P4HPQA0"
+        },
+        {
+          "id":"PFMFH4L",
+          "type":"user_reference",
+          "summary":"Cameron Jung",
+          "self":"https://api.pagerduty.com/users/PFMFH4L",
+          "html_url":"https://webdemo.pagerduty.com/users/PFMFH4L"
+        },
+        {
+          "id":"P7QCNF1",
+          "type":"user_reference",
+          "summary":"Amy C",
+          "self":"https://api.pagerduty.com/users/P7QCNF1",
+          "html_url":"https://webdemo.pagerduty.com/users/P7QCNF1"
+        },
+        {
+          "id":"P4P5I9U",
+          "type":"user_reference",
+          "summary":"Bob Fahey",
+          "self":"https://api.pagerduty.com/users/P4P5I9U",
+          "html_url":"https://webdemo.pagerduty.com/users/P4P5I9U"
+        },
+        {
+          "id":"PV3RQQ0",
+          "type":"user_reference",
+          "summary":"Alli Rubach",
+          "self":"https://api.pagerduty.com/users/PV3RQQ0",
+          "html_url":"https://webdemo.pagerduty.com/users/PV3RQQ0"
+        },
+        {
+          "id":"P8GWIGI",
+          "type":"user_reference",
+          "summary":"Colby Glieden",
+          "self":"https://api.pagerduty.com/users/P8GWIGI",
+          "html_url":"https://webdemo.pagerduty.com/users/P8GWIGI"
+        },
+        {
+          "id":"PEJV34Q",
+          "type":"user_reference",
+          "summary":"Kyle Fitzpatrick",
+          "self":"https://api.pagerduty.com/users/PEJV34Q",
+          "html_url":"https://webdemo.pagerduty.com/users/PEJV34Q"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PT7SM4L",
+      "type":"schedule",
+      "summary":"Ancy Test",
+      "self":"https://api.pagerduty.com/schedules/PT7SM4L",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PT7SM4L",
+      "name":"Ancy Test",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"PUOCIN1",
+          "type":"escalation_policy_reference",
+          "summary":"AAV Demo Test",
+          "self":"https://api.pagerduty.com/escalation_policies/PUOCIN1",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PUOCIN1"
+        }
+      ],
+      "users":[
+        {
+          "id":"PAUP09U",
+          "type":"user_reference",
+          "summary":"Ancy Dow",
+          "self":"https://api.pagerduty.com/users/PAUP09U",
+          "html_url":"https://webdemo.pagerduty.com/users/PAUP09U"
+        },
+        {
+          "id":"P632Y62",
+          "type":"user_reference",
+          "summary":"Vera Chen",
+          "self":"https://api.pagerduty.com/users/P632Y62",
+          "html_url":"https://webdemo.pagerduty.com/users/P632Y62"
+        },
+        {
+          "id":"P5T36BU",
+          "type":"user_reference",
+          "summary":"abhijit@pagerduty.com",
+          "self":"https://api.pagerduty.com/users/P5T36BU",
+          "html_url":"https://webdemo.pagerduty.com/users/P5T36BU"
+        },
+        {
+          "id":"PX6RN71",
+          "type":"user_reference",
+          "summary":"Angela Chapman",
+          "self":"https://api.pagerduty.com/users/PX6RN71",
+          "html_url":"https://webdemo.pagerduty.com/users/PX6RN71"
+        },
+        {
+          "id":"PRNFXJS",
+          "type":"user_reference",
+          "summary":"John Hooper",
+          "self":"https://api.pagerduty.com/users/PRNFXJS",
+          "html_url":"https://webdemo.pagerduty.com/users/PRNFXJS"
+        },
+        {
+          "id":"PRMXSSO",
+          "type":"user_reference",
+          "summary":"Benedict Cumberbatch",
+          "self":"https://api.pagerduty.com/users/PRMXSSO",
+          "html_url":"https://webdemo.pagerduty.com/users/PRMXSSO"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PKM7ZY1",
+      "type":"schedule",
+      "summary":"BoothDuty Primary",
+      "self":"https://api.pagerduty.com/schedules/PKM7ZY1",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PKM7ZY1",
+      "name":"BoothDuty Primary",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PSL1X6P",
+          "type":"user_reference",
+          "summary":"Anyone",
+          "self":"https://api.pagerduty.com/users/PSL1X6P",
+          "html_url":"https://webdemo.pagerduty.com/users/PSL1X6P"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P1RTT8F",
+      "type":"schedule",
+      "summary":"BoothDuty Secondary",
+      "self":"https://api.pagerduty.com/schedules/P1RTT8F",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P1RTT8F",
+      "name":"BoothDuty Secondary",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PSAHZUD",
+          "type":"user_reference",
+          "summary":"David Shackelford",
+          "self":"https://api.pagerduty.com/users/PSAHZUD",
+          "html_url":"https://webdemo.pagerduty.com/users/PSAHZUD"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P34SGIG",
+      "type":"schedule",
+      "summary":"Business hours schedule",
+      "self":"https://api.pagerduty.com/schedules/P34SGIG",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P34SGIG",
+      "name":"Business hours schedule",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"PA5W587",
+          "type":"escalation_policy_reference",
+          "summary":"Operations",
+          "self":"https://api.pagerduty.com/escalation_policies/PA5W587",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PA5W587"
+        },
+        {
+          "id":"PWRYUY4",
+          "type":"escalation_policy_reference",
+          "summary":"Operations - AWS",
+          "self":"https://api.pagerduty.com/escalation_policies/PWRYUY4",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PWRYUY4"
+        }
+      ],
+      "users":[
+        {
+          "id":"PGJ36Z3",
+          "type":"user_reference",
+          "summary":"Alex Cunningham",
+          "self":"https://api.pagerduty.com/users/PGJ36Z3",
+          "html_url":"https://webdemo.pagerduty.com/users/PGJ36Z3"
+        },
+        {
+          "id":"PXLC0SL",
+          "type":"user_reference",
+          "summary":"Alex Solomon",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PO41K18",
+          "type":"user_reference",
+          "summary":"Alexa Guerra",
+          "self":null,
+          "html_url":null
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"PRJ4D5C",
+          "type":"team_reference",
+          "summary":"ops",
+          "self":"https://api.pagerduty.com/teams/PRJ4D5C",
+          "html_url":"https://webdemo.pagerduty.com/teams/PRJ4D5C"
+        },
+        {
+          "id":"P7W0ZIU",
+          "type":"team_reference",
+          "summary":"Monitoring Tools Team",
+          "self":"https://api.pagerduty.com/teams/P7W0ZIU",
+          "html_url":"https://webdemo.pagerduty.com/teams/P7W0ZIU"
+        }
+      ]
+    },
+    {
+      "id":"P9GKT9E",
+      "type":"schedule",
+      "summary":"cisco live test (network) primary",
+      "self":"https://api.pagerduty.com/schedules/P9GKT9E",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P9GKT9E",
+      "name":"cisco live test (network) primary",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PN4UWE0",
+          "type":"user_reference",
+          "summary":"Alexis",
+          "self":"https://api.pagerduty.com/users/PN4UWE0",
+          "html_url":"https://webdemo.pagerduty.com/users/PN4UWE0"
+        },
+        {
+          "id":"P36S9Y2",
+          "type":"user_reference",
+          "summary":"Alex Ware",
+          "self":"https://api.pagerduty.com/users/P36S9Y2",
+          "html_url":"https://webdemo.pagerduty.com/users/P36S9Y2"
+        },
+        {
+          "id":"P1RQ0Z6",
+          "type":"user_reference",
+          "summary":"Alex Weinstein",
+          "self":"https://api.pagerduty.com/users/P1RQ0Z6",
+          "html_url":"https://webdemo.pagerduty.com/users/P1RQ0Z6"
+        },
+        {
+          "id":"PO41K18",
+          "type":"user_reference",
+          "summary":"Alexa Guerra",
+          "self":null,
+          "html_url":null
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PXI8S91",
+      "type":"schedule",
+      "summary":"Custom partial hours",
+      "self":"https://api.pagerduty.com/schedules/PXI8S91",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PXI8S91",
+      "name":"Custom partial hours",
+      "time_zone":"America/Los_Angeles",
+      "description":"",
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"P7QCNF1",
+          "type":"user_reference",
+          "summary":"Amy C",
+          "self":"https://api.pagerduty.com/users/P7QCNF1",
+          "html_url":"https://webdemo.pagerduty.com/users/P7QCNF1"
+        },
+        {
+          "id":"PRMXSSO",
+          "type":"user_reference",
+          "summary":"Benedict Cumberbatch",
+          "self":"https://api.pagerduty.com/users/PRMXSSO",
+          "html_url":"https://webdemo.pagerduty.com/users/PRMXSSO"
+        },
+        {
+          "id":"P52YQZX",
+          "type":"user_reference",
+          "summary":"Dave",
+          "self":"https://api.pagerduty.com/users/P52YQZX",
+          "html_url":"https://webdemo.pagerduty.com/users/P52YQZX"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PZIKA79",
+      "type":"schedule",
+      "summary":"Dashing Demo - Backup",
+      "self":"https://api.pagerduty.com/schedules/PZIKA79",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PZIKA79",
+      "name":"Dashing Demo - Backup",
+      "time_zone":"America/Los_Angeles",
+      "description":"",
+      "escalation_policies":[
+        {
+          "id":"P3EZ5OG",
+          "type":"escalation_policy_reference",
+          "summary":"Support team + NOC",
+          "self":"https://api.pagerduty.com/escalation_policies/P3EZ5OG",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/P3EZ5OG"
+        }
+      ],
+      "users":[
+        {
+          "id":"P0YSUGZ",
+          "type":"user_reference",
+          "summary":"Han Solo",
+          "self":"https://api.pagerduty.com/users/P0YSUGZ",
+          "html_url":"https://webdemo.pagerduty.com/users/P0YSUGZ"
+        },
+        {
+          "id":"PC92TC3",
+          "type":"user_reference",
+          "summary":"Luke Skywalker",
+          "self":"https://api.pagerduty.com/users/PC92TC3",
+          "html_url":"https://webdemo.pagerduty.com/users/PC92TC3"
+        },
+        {
+          "id":"P5X1L0Q",
+          "type":"user_reference",
+          "summary":"Aaron Cripps",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PSAHZUD",
+          "type":"user_reference",
+          "summary":"David Shackelford",
+          "self":"https://api.pagerduty.com/users/PSAHZUD",
+          "html_url":"https://webdemo.pagerduty.com/users/PSAHZUD"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"PZCN3K6",
+          "type":"team_reference",
+          "summary":"Customer Support",
+          "self":null,
+          "html_url":null
+        }
+      ]
+    },
+    {
+      "id":"P8SI76Z",
+      "type":"schedule",
+      "summary":"Dashing Demo - Primary",
+      "self":"https://api.pagerduty.com/schedules/P8SI76Z",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P8SI76Z",
+      "name":"Dashing Demo - Primary",
+      "time_zone":"America/Los_Angeles",
+      "description":"",
+      "escalation_policies":[
+        {
+          "id":"P3EZ5OG",
+          "type":"escalation_policy_reference",
+          "summary":"Support team + NOC",
+          "self":"https://api.pagerduty.com/escalation_policies/P3EZ5OG",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/P3EZ5OG"
+        }
+      ],
+      "users":[
+        {
+          "id":"PC92TC3",
+          "type":"user_reference",
+          "summary":"Luke Skywalker",
+          "self":"https://api.pagerduty.com/users/PC92TC3",
+          "html_url":"https://webdemo.pagerduty.com/users/PC92TC3"
+        },
+        {
+          "id":"P0YSUGZ",
+          "type":"user_reference",
+          "summary":"Han Solo",
+          "self":"https://api.pagerduty.com/users/P0YSUGZ",
+          "html_url":"https://webdemo.pagerduty.com/users/P0YSUGZ"
+        },
+        {
+          "id":"PSAHZUD",
+          "type":"user_reference",
+          "summary":"David Shackelford",
+          "self":"https://api.pagerduty.com/users/PSAHZUD",
+          "html_url":"https://webdemo.pagerduty.com/users/PSAHZUD"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"PZCN3K6",
+          "type":"team_reference",
+          "summary":"Customer Support",
+          "self":null,
+          "html_url":null
+        }
+      ]
+    },
+    {
+      "id":"PLQGPZT",
+      "type":"schedule",
+      "summary":"Database Team Primary",
+      "self":"https://api.pagerduty.com/schedules/PLQGPZT",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PLQGPZT",
+      "name":"Database Team Primary",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PZ7JFQ7",
+          "type":"user_reference",
+          "summary":"Alejandro Sandoval",
+          "self":"https://api.pagerduty.com/users/PZ7JFQ7",
+          "html_url":"https://webdemo.pagerduty.com/users/PZ7JFQ7"
+        },
+        {
+          "id":"P4P5I9U",
+          "type":"user_reference",
+          "summary":"Bob Fahey",
+          "self":"https://api.pagerduty.com/users/P4P5I9U",
+          "html_url":"https://webdemo.pagerduty.com/users/P4P5I9U"
+        },
+        {
+          "id":"PWN3KCJ",
+          "type":"user_reference",
+          "summary":"Craig Reynolds",
+          "self":"https://api.pagerduty.com/users/PWN3KCJ",
+          "html_url":"https://webdemo.pagerduty.com/users/PWN3KCJ"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PDTC55B",
+      "type":"schedule",
+      "summary":"Database Team Secondary",
+      "self":"https://api.pagerduty.com/schedules/PDTC55B",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PDTC55B",
+      "name":"Database Team Secondary",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"P4P5I9U",
+          "type":"user_reference",
+          "summary":"Bob Fahey",
+          "self":"https://api.pagerduty.com/users/P4P5I9U",
+          "html_url":"https://webdemo.pagerduty.com/users/P4P5I9U"
+        },
+        {
+          "id":"PWN3KCJ",
+          "type":"user_reference",
+          "summary":"Craig Reynolds",
+          "self":"https://api.pagerduty.com/users/PWN3KCJ",
+          "html_url":"https://webdemo.pagerduty.com/users/PWN3KCJ"
+        },
+        {
+          "id":"PZ7JFQ7",
+          "type":"user_reference",
+          "summary":"Alejandro Sandoval",
+          "self":"https://api.pagerduty.com/users/PZ7JFQ7",
+          "html_url":"https://webdemo.pagerduty.com/users/PZ7JFQ7"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P6EOD79",
+      "type":"schedule",
+      "summary":"Fail test ",
+      "self":"https://api.pagerduty.com/schedules/P6EOD79",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P6EOD79",
+      "name":"Fail test ",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"POEWASY",
+          "type":"escalation_policy_reference",
+          "summary":"Group Alerting - CrossTeam",
+          "self":"https://api.pagerduty.com/escalation_policies/POEWASY",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/POEWASY"
+        }
+      ],
+      "users":[
+        {
+          "id":"P7QCNF1",
+          "type":"user_reference",
+          "summary":"Amy C",
+          "self":"https://api.pagerduty.com/users/P7QCNF1",
+          "html_url":"https://webdemo.pagerduty.com/users/P7QCNF1"
+        },
+        {
+          "id":"PSL1X6P",
+          "type":"user_reference",
+          "summary":"Anyone",
+          "self":"https://api.pagerduty.com/users/PSL1X6P",
+          "html_url":"https://webdemo.pagerduty.com/users/PSL1X6P"
+        },
+        {
+          "id":"PAUJBRX",
+          "type":"user_reference",
+          "summary":"John Smith",
+          "self":"https://api.pagerduty.com/users/PAUJBRX",
+          "html_url":"https://webdemo.pagerduty.com/users/PAUJBRX"
+        },
+        {
+          "id":"P52YQZX",
+          "type":"user_reference",
+          "summary":"Dave",
+          "self":"https://api.pagerduty.com/users/P52YQZX",
+          "html_url":"https://webdemo.pagerduty.com/users/P52YQZX"
+        },
+        {
+          "id":"PPFTW3L",
+          "type":"user_reference",
+          "summary":"Jobs",
+          "self":"https://api.pagerduty.com/users/PPFTW3L",
+          "html_url":"https://webdemo.pagerduty.com/users/PPFTW3L"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"POHQ1G3",
+          "type":"team_reference",
+          "summary":"Cross team Sev1 responders",
+          "self":null,
+          "html_url":null
+        }
+      ]
+    },
+    {
+      "id":"PS1LW8I",
+      "type":"schedule",
+      "summary":"Follow the Sun",
+      "self":"https://api.pagerduty.com/schedules/PS1LW8I",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PS1LW8I",
+      "name":"Follow the Sun",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"P4P5I9U",
+          "type":"user_reference",
+          "summary":"Bob Fahey",
+          "self":"https://api.pagerduty.com/users/P4P5I9U",
+          "html_url":"https://webdemo.pagerduty.com/users/P4P5I9U"
+        },
+        {
+          "id":"P36S9Y2",
+          "type":"user_reference",
+          "summary":"Alex Ware",
+          "self":"https://api.pagerduty.com/users/P36S9Y2",
+          "html_url":"https://webdemo.pagerduty.com/users/P36S9Y2"
+        },
+        {
+          "id":"P79LCJF",
+          "type":"user_reference",
+          "summary":"Andrew Bakhtiari",
+          "self":"https://api.pagerduty.com/users/P79LCJF",
+          "html_url":"https://webdemo.pagerduty.com/users/P79LCJF"
+        },
+        {
+          "id":"PLYCOXH",
+          "type":"user_reference",
+          "summary":"Brittany Hendrickson",
+          "self":"https://api.pagerduty.com/users/PLYCOXH",
+          "html_url":"https://webdemo.pagerduty.com/users/PLYCOXH"
+        },
+        {
+          "id":"PO41K18",
+          "type":"user_reference",
+          "summary":"Alexa Guerra",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PIIGE3P",
+          "type":"user_reference",
+          "summary":"Brett Skale",
+          "self":"https://api.pagerduty.com/users/PIIGE3P",
+          "html_url":"https://webdemo.pagerduty.com/users/PIIGE3P"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P7Q2J5S",
+      "type":"schedule",
+      "summary":"Just London",
+      "self":"https://api.pagerduty.com/schedules/P7Q2J5S",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P7Q2J5S",
+      "name":"Just London",
+      "time_zone":"Europe/London",
+      "description":"",
+      "escalation_policies":[
+        {
+          "id":"POEWASY",
+          "type":"escalation_policy_reference",
+          "summary":"Group Alerting - CrossTeam",
+          "self":"https://api.pagerduty.com/escalation_policies/POEWASY",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/POEWASY"
+        }
+      ],
+      "users":[
+        {
+          "id":"PRMXSSO",
+          "type":"user_reference",
+          "summary":"Benedict Cumberbatch",
+          "self":"https://api.pagerduty.com/users/PRMXSSO",
+          "html_url":"https://webdemo.pagerduty.com/users/PRMXSSO"
+        },
+        {
+          "id":"P7QCNF1",
+          "type":"user_reference",
+          "summary":"Amy C",
+          "self":"https://api.pagerduty.com/users/P7QCNF1",
+          "html_url":"https://webdemo.pagerduty.com/users/P7QCNF1"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"POHQ1G3",
+          "type":"team_reference",
+          "summary":"Cross team Sev1 responders",
+          "self":null,
+          "html_url":null
+        }
+      ]
+    },
+    {
+      "id":"PHHJAKM",
+      "type":"schedule",
+      "summary":"Linda On-Call",
+      "self":"https://api.pagerduty.com/schedules/PHHJAKM",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PHHJAKM",
+      "name":"Linda On-Call",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"P3XLH6L",
+          "type":"user_reference",
+          "summary":"Linda Kelly",
+          "self":"https://api.pagerduty.com/users/P3XLH6L",
+          "html_url":"https://webdemo.pagerduty.com/users/P3XLH6L"
+        },
+        {
+          "id":"P8BNQN8",
+          "type":"user_reference",
+          "summary":"Linda Kelley",
+          "self":"https://api.pagerduty.com/users/P8BNQN8",
+          "html_url":"https://webdemo.pagerduty.com/users/P8BNQN8"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PISEIJN",
+      "type":"schedule",
+      "summary":"LM Test Rotation Weekend",
+      "self":"https://api.pagerduty.com/schedules/PISEIJN",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PISEIJN",
+      "name":"LM Test Rotation Weekend",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PXOTLHW",
+          "type":"user_reference",
+          "summary":"Corinna Sherman",
+          "self":"https://api.pagerduty.com/users/PXOTLHW",
+          "html_url":"https://webdemo.pagerduty.com/users/PXOTLHW"
+        },
+        {
+          "id":"PV4IF0I",
+          "type":"user_reference",
+          "summary":"Harrison Mallen",
+          "self":"https://api.pagerduty.com/users/PV4IF0I",
+          "html_url":"https://webdemo.pagerduty.com/users/PV4IF0I"
+        },
+        {
+          "id":"PXLC0SL",
+          "type":"user_reference",
+          "summary":"Alex Solomon",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PCYOR4Q",
+          "type":"user_reference",
+          "summary":"Bob",
+          "self":null,
+          "html_url":null
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P7EEQQ5",
+      "type":"schedule",
+      "summary":"Monthly Primary",
+      "self":"https://api.pagerduty.com/schedules/P7EEQQ5",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P7EEQQ5",
+      "name":"Monthly Primary",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PXOTLHW",
+          "type":"user_reference",
+          "summary":"Corinna Sherman",
+          "self":"https://api.pagerduty.com/users/PXOTLHW",
+          "html_url":"https://webdemo.pagerduty.com/users/PXOTLHW"
+        },
+        {
+          "id":"PV4IF0I",
+          "type":"user_reference",
+          "summary":"Harrison Mallen",
+          "self":"https://api.pagerduty.com/users/PV4IF0I",
+          "html_url":"https://webdemo.pagerduty.com/users/PV4IF0I"
+        },
+        {
+          "id":"PXLC0SL",
+          "type":"user_reference",
+          "summary":"Alex Solomon",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PCYOR4Q",
+          "type":"user_reference",
+          "summary":"Bob",
+          "self":null,
+          "html_url":null
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PIRLC2D",
+      "type":"schedule",
+      "summary":"More schedule UI missing",
+      "self":"https://api.pagerduty.com/schedules/PIRLC2D",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PIRLC2D",
+      "name":"More schedule UI missing",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"P7QCNF1",
+          "type":"user_reference",
+          "summary":"Amy C",
+          "self":"https://api.pagerduty.com/users/P7QCNF1",
+          "html_url":"https://webdemo.pagerduty.com/users/P7QCNF1"
+        },
+        {
+          "id":"P52YQZX",
+          "type":"user_reference",
+          "summary":"Dave",
+          "self":"https://api.pagerduty.com/users/P52YQZX",
+          "html_url":"https://webdemo.pagerduty.com/users/P52YQZX"
+        },
+        {
+          "id":"PAUJBRX",
+          "type":"user_reference",
+          "summary":"John Smith",
+          "self":"https://api.pagerduty.com/users/PAUJBRX",
+          "html_url":"https://webdemo.pagerduty.com/users/PAUJBRX"
+        },
+        {
+          "id":"PSL1X6P",
+          "type":"user_reference",
+          "summary":"Anyone",
+          "self":"https://api.pagerduty.com/users/PSL1X6P",
+          "html_url":"https://webdemo.pagerduty.com/users/PSL1X6P"
+        },
+        {
+          "id":"PSAHZUD",
+          "type":"user_reference",
+          "summary":"David Shackelford",
+          "self":"https://api.pagerduty.com/users/PSAHZUD",
+          "html_url":"https://webdemo.pagerduty.com/users/PSAHZUD"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"PXX1ZLA",
+      "type":"schedule",
+      "summary":"New fail schedule ",
+      "self":"https://api.pagerduty.com/schedules/PXX1ZLA",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PXX1ZLA",
+      "name":"New fail schedule ",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"POEWASY",
+          "type":"escalation_policy_reference",
+          "summary":"Group Alerting - CrossTeam",
+          "self":"https://api.pagerduty.com/escalation_policies/POEWASY",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/POEWASY"
+        }
+      ],
+      "users":[
+        {
+          "id":"PSL1X6P",
+          "type":"user_reference",
+          "summary":"Anyone",
+          "self":"https://api.pagerduty.com/users/PSL1X6P",
+          "html_url":"https://webdemo.pagerduty.com/users/PSL1X6P"
+        },
+        {
+          "id":"PRMXSSO",
+          "type":"user_reference",
+          "summary":"Benedict Cumberbatch",
+          "self":"https://api.pagerduty.com/users/PRMXSSO",
+          "html_url":"https://webdemo.pagerduty.com/users/PRMXSSO"
+        },
+        {
+          "id":"PYUUVV3",
+          "type":"user_reference",
+          "summary":"Tom Wells",
+          "self":"https://api.pagerduty.com/users/PYUUVV3",
+          "html_url":"https://webdemo.pagerduty.com/users/PYUUVV3"
+        },
+        {
+          "id":"PNZXTR0",
+          "type":"user_reference",
+          "summary":"Test 3",
+          "self":null,
+          "html_url":null
+        },
+        {
+          "id":"PPFTW3L",
+          "type":"user_reference",
+          "summary":"Jobs",
+          "self":"https://api.pagerduty.com/users/PPFTW3L",
+          "html_url":"https://webdemo.pagerduty.com/users/PPFTW3L"
+        },
+        {
+          "id":"PVYIT4B",
+          "type":"user_reference",
+          "summary":"Manisha Koirala",
+          "self":"https://api.pagerduty.com/users/PVYIT4B",
+          "html_url":"https://webdemo.pagerduty.com/users/PVYIT4B"
+        },
+        {
+          "id":"P7QCNF1",
+          "type":"user_reference",
+          "summary":"Amy C",
+          "self":"https://api.pagerduty.com/users/P7QCNF1",
+          "html_url":"https://webdemo.pagerduty.com/users/P7QCNF1"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"POHQ1G3",
+          "type":"team_reference",
+          "summary":"Cross team Sev1 responders",
+          "self":null,
+          "html_url":null
+        }
+      ]
+    },
+    {
+      "id":"PIJ3NFC",
+      "type":"schedule",
+      "summary":"New Relic Rotation",
+      "self":"https://api.pagerduty.com/schedules/PIJ3NFC",
+      "html_url":"https://webdemo.pagerduty.com/schedules/PIJ3NFC",
+      "name":"New Relic Rotation",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PZ7JFQ7",
+          "type":"user_reference",
+          "summary":"Alejandro Sandoval",
+          "self":"https://api.pagerduty.com/users/PZ7JFQ7",
+          "html_url":"https://webdemo.pagerduty.com/users/PZ7JFQ7"
+        },
+        {
+          "id":"PTPO32Y",
+          "type":"user_reference",
+          "summary":"Seth Eisenberg",
+          "self":"https://api.pagerduty.com/users/PTPO32Y",
+          "html_url":"https://webdemo.pagerduty.com/users/PTPO32Y"
+        },
+        {
+          "id":"P1RQ0Z6",
+          "type":"user_reference",
+          "summary":"Alex Weinstein",
+          "self":"https://api.pagerduty.com/users/P1RQ0Z6",
+          "html_url":"https://webdemo.pagerduty.com/users/P1RQ0Z6"
+        },
+        {
+          "id":"PGJ36Z3",
+          "type":"user_reference",
+          "summary":"Alex Cunningham",
+          "self":"https://api.pagerduty.com/users/PGJ36Z3",
+          "html_url":"https://webdemo.pagerduty.com/users/PGJ36Z3"
+        },
+        {
+          "id":"P4P5I9U",
+          "type":"user_reference",
+          "summary":"Bob Fahey",
+          "self":"https://api.pagerduty.com/users/P4P5I9U",
+          "html_url":"https://webdemo.pagerduty.com/users/P4P5I9U"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P24XZC5",
+      "type":"schedule",
+      "summary":"New Schedule #3",
+      "self":"https://api.pagerduty.com/schedules/P24XZC5",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P24XZC5",
+      "name":"New Schedule #3",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+        {
+          "id":"PWRYUY4",
+          "type":"escalation_policy_reference",
+          "summary":"Operations - AWS",
+          "self":"https://api.pagerduty.com/escalation_policies/PWRYUY4",
+          "html_url":"https://webdemo.pagerduty.com/escalation_policies/PWRYUY4"
+        }
+      ],
+      "users":[
+        {
+          "id":"PIIGE3P",
+          "type":"user_reference",
+          "summary":"Brett Skale",
+          "self":"https://api.pagerduty.com/users/PIIGE3P",
+          "html_url":"https://webdemo.pagerduty.com/users/PIIGE3P"
+        },
+        {
+          "id":"PTPO32Y",
+          "type":"user_reference",
+          "summary":"Seth Eisenberg",
+          "self":"https://api.pagerduty.com/users/PTPO32Y",
+          "html_url":"https://webdemo.pagerduty.com/users/PTPO32Y"
+        },
+        {
+          "id":"PZ7JFQ7",
+          "type":"user_reference",
+          "summary":"Alejandro Sandoval",
+          "self":"https://api.pagerduty.com/users/PZ7JFQ7",
+          "html_url":"https://webdemo.pagerduty.com/users/PZ7JFQ7"
+        },
+        {
+          "id":"PFMFH4L",
+          "type":"user_reference",
+          "summary":"Cameron Jung",
+          "self":"https://api.pagerduty.com/users/PFMFH4L",
+          "html_url":"https://webdemo.pagerduty.com/users/PFMFH4L"
+        },
+        {
+          "id":"PUVM8GB",
+          "type":"user_reference",
+          "summary":"Brian Choi-Dea",
+          "self":"https://api.pagerduty.com/users/PUVM8GB",
+          "html_url":"https://webdemo.pagerduty.com/users/PUVM8GB"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+        {
+          "id":"PRJ4D5C",
+          "type":"team_reference",
+          "summary":"ops",
+          "self":"https://api.pagerduty.com/teams/PRJ4D5C",
+          "html_url":"https://webdemo.pagerduty.com/teams/PRJ4D5C"
+        }
+      ]
+    },
+    {
+      "id":"P67RCDL",
+      "type":"schedule",
+      "summary":"New Schedule #5",
+      "self":"https://api.pagerduty.com/schedules/P67RCDL",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P67RCDL",
+      "name":"New Schedule #5",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PZ7JFQ7",
+          "type":"user_reference",
+          "summary":"Alejandro Sandoval",
+          "self":"https://api.pagerduty.com/users/PZ7JFQ7",
+          "html_url":"https://webdemo.pagerduty.com/users/PZ7JFQ7"
+        },
+        {
+          "id":"PGJ36Z3",
+          "type":"user_reference",
+          "summary":"Alex Cunningham",
+          "self":"https://api.pagerduty.com/users/PGJ36Z3",
+          "html_url":"https://webdemo.pagerduty.com/users/PGJ36Z3"
+        },
+        {
+          "id":"P36S9Y2",
+          "type":"user_reference",
+          "summary":"Alex Ware",
+          "self":"https://api.pagerduty.com/users/P36S9Y2",
+          "html_url":"https://webdemo.pagerduty.com/users/P36S9Y2"
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    },
+    {
+      "id":"P1XHMHT",
+      "type":"schedule",
+      "summary":"New Schedule #6",
+      "self":"https://api.pagerduty.com/schedules/P1XHMHT",
+      "html_url":"https://webdemo.pagerduty.com/schedules/P1XHMHT",
+      "name":"New Schedule #6",
+      "time_zone":"America/Los_Angeles",
+      "description":null,
+      "escalation_policies":[
+
+      ],
+      "users":[
+        {
+          "id":"PN4UWE0",
+          "type":"user_reference",
+          "summary":"Alexis",
+          "self":"https://api.pagerduty.com/users/PN4UWE0",
+          "html_url":"https://webdemo.pagerduty.com/users/PN4UWE0"
+        },
+        {
+          "id":"PGJ36Z3",
+          "type":"user_reference",
+          "summary":"Alex Cunningham",
+          "self":"https://api.pagerduty.com/users/PGJ36Z3",
+          "html_url":"https://webdemo.pagerduty.com/users/PGJ36Z3"
+        },
+        {
+          "id":"PY0L9PI",
+          "type":"user_reference",
+          "summary":"Andrew Do",
+          "self":"https://api.pagerduty.com/users/PY0L9PI",
+          "html_url":"https://webdemo.pagerduty.com/users/PY0L9PI"
+        },
+        {
+          "id":"PO41K18",
+          "type":"user_reference",
+          "summary":"Alexa Guerra",
+          "self":null,
+          "html_url":null
+        }
+      ],
+      "privilege":null,
+      "teams":[
+
+      ]
+    }
+  ],
+  "limit":25,
+  "offset":0,
+  "total":null,
+  "more":true
+}
